@@ -4,7 +4,7 @@
 
 ### 更新
 
-+ [基于HyperLandmark的活体检测](https://xiangzi.site/2019/04/19/%E6%B4%BB%E4%BD%93%E8%AF%86%E5%88%AB/)
++ [基于HyperLandmark的活体检测](https://xiangzi.site/2019/04/19/iOS/%E6%B4%BB%E4%BD%93%E8%AF%86%E5%88%AB/)
 
 + 增加了基于IntraFace活体检测 (2018.03.30)
 
@@ -42,7 +42,9 @@ int main()
 ```
 ### Android Demo
 
-提供了简单的Demo工程 ， 需要依赖OpenCV3.4 和安装NDK。若不想使用OpenCV3.4 和繁琐的编译步骤，提供了编译好的 so 库
+1、提供了简单的Demo工程 
+2、NDK为版本为16
+
 ### 联系和交流：
 
 关于单目非配合活体检测我们正在进行数据收集与算法开发，技术交流、捐献数据可以加入下群。
